@@ -1,0 +1,4 @@
+This is a simple Vanilla Javascript project. Created a Form Validator that efficiently checks for the following conditions:
+Valid email (regex)
+Username & Password Lengths
+Passwords match
