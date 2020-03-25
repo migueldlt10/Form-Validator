@@ -1,4 +1,10 @@
-This is a simple Vanilla Javascript project. Created a Form Validator that efficiently checks for the following conditions:
-Valid email (regex)
-Username & Password Lengths
-Passwords match
+# Simple client side form validation.
+- View live: 
+
+# Project Specifications
+- Create form UI
+- Show error messages under specific inputs
+- checkRequired() to accept array of inputs
+- checkLength() to check min and max length
+- checkEmail() to validate email with regex
+- checkPasswordsMatch() to match confirm password
